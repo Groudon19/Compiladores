@@ -67,3 +67,5 @@ Após a montagem, você pode executar o programa compilado usando o ambiente de 
 java Main
 
 ```
+
+! Esse README foi gerado por IA, mas os seus conteúdos foram conferidos e testados.
